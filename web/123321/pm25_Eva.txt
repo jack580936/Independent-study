@@ -1,0 +1,2857 @@
+2019-12-20 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 0.9280177305513749
+The MAE   on the Test set is: 0.6255039865508231
+The MAPE  on the Test set is: 0.23059826892474827
+The SMAPE on the Test set is: 0.20452966793426866
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 5.0523556475397005
+The MAE   on the Test set is: 4.396491257350713
+The MAPE  on the Test set is: 1.8715763476769058
+The SMAPE on the Test set is: 0.657288708305535
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 8.17570419155679
+The MAE   on the Test set is: 7.9044848847182525
+The MAPE  on the Test set is: 3.3105850425008523
+The SMAPE on the Test set is: 0.8534040784308541
+2019-12-20 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 0.9620799518862914
+The MAE   on the Test set is: 0.6399958793010313
+The MAPE  on the Test set is: 0.04057315320828533
+The SMAPE on the Test set is: 0.04019944767674998
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 2.609641685850029
+The MAE   on the Test set is: 1.96809652971868
+The MAPE  on the Test set is: 0.12102536511671833
+The SMAPE on the Test set is: 0.14540349190755758
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 2.4960660583587813
+The MAE   on the Test set is: 2.14602649534032
+The MAPE  on the Test set is: 0.14436729333019013
+The SMAPE on the Test set is: 0.12970021364722473
+
+2019-12-21 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.6314082170544157
+The MAE   on the Test set is: 1.860355548545265
+The MAPE  on the Test set is: 0.03507835652687928
+The SMAPE on the Test set is: 0.030098114232381394
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 7.215056198440028
+The MAE   on the Test set is: 6.024458365950062
+The MAPE  on the Test set is: 0.09408424415589245
+The SMAPE on the Test set is: 0.09873878164240674
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 8.518209009679396
+The MAE   on the Test set is: 7.8509155646284245
+The MAPE  on the Test set is: 0.11373945352402424
+The SMAPE on the Test set is: 0.14236402055475367
+
+2019-12-22 02:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.2455227805137326
+The MAE   on the Test set is: 1.680410915965169
+The MAPE  on the Test set is: 0.039504546691580336
+The SMAPE on the Test set is: 0.03177891523416664
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 6.568713702845167
+The MAE   on the Test set is: 5.0090793466647
+The MAPE  on the Test set is: 0.11579291041804798
+The SMAPE on the Test set is: 0.07969887564750572
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 6.592519266988039
+The MAE   on the Test set is: 5.46450153424706
+The MAPE  on the Test set is: 0.09580787691580463
+The SMAPE on the Test set is: 0.10765953031428638
+2019-12-22 03:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.1028206712408797
+The MAE   on the Test set is: 1.4796204171051999
+The MAPE  on the Test set is: 0.03476112984671139
+The SMAPE on the Test set is: 0.02847758312828384
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 5.870476521977479
+The MAE   on the Test set is: 4.392475484021516
+The MAPE  on the Test set is: 0.10558376780455314
+The SMAPE on the Test set is: 0.07411826505016361
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 6.679063023127601
+The MAE   on the Test set is: 5.682444119099373
+The MAPE  on the Test set is: 0.099310561640137
+The SMAPE on the Test set is: 0.11196089684721627
+2019-12-22 04:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.132535168507233
+The MAE   on the Test set is: 1.5266031802003546
+The MAPE  on the Test set is: 0.044408297665495436
+The SMAPE on the Test set is: 0.03069541276451138
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 6.468647221163396
+The MAE   on the Test set is: 4.713064288057883
+The MAPE  on the Test set is: 0.14499938576899335
+The SMAPE on the Test set is: 0.08131651791558075
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 6.545922813762333
+The MAE   on the Test set is: 5.59008176126063
+The MAPE  on the Test set is: 0.11383219418340926
+The SMAPE on the Test set is: 0.1128164122892448
+2019-12-22 05:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.940798715877359
+The MAE   on the Test set is: 2.2338065963146443
+The MAPE  on the Test set is: 0.05592102010898097
+The SMAPE on the Test set is: 0.045290519164664506
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 6.666278709497947
+The MAE   on the Test set is: 5.024376229331091
+The MAPE  on the Test set is: 0.1505959466994304
+The SMAPE on the Test set is: 0.08674929460354025
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 6.545922813762333
+The MAE   on the Test set is: 5.59008176126063
+The MAPE  on the Test set is: 0.11383219418340926
+The SMAPE on the Test set is: 0.1128164122892448
+2019-12-22 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 3.2213649409674203
+The MAE   on the Test set is: 2.20048503716925
+The MAPE  on the Test set is: 0.043219932340859336
+The SMAPE on the Test set is: 0.037641948595901545
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 7.1876275970935195
+The MAE   on the Test set is: 5.310698868901225
+The MAPE  on the Test set is: 0.11660046085310387
+The SMAPE on the Test set is: 0.08746224661467876
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 8.806247117792003
+The MAE   on the Test set is: 7.32775609522176
+The MAPE  on the Test set is: 0.11583885389018435
+The SMAPE on the Test set is: 0.13424179518227472
+2019-12-22 07:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 4.669897082953464
+The MAE   on the Test set is: 2.900817225996756
+The MAPE  on the Test set is: 0.04939968785150688
+The SMAPE on the Test set is: 0.04191444417495672
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 8.90047777299076
+The MAE   on the Test set is: 5.821546234120884
+The MAPE  on the Test set is: 0.09008363963718058
+The SMAPE on the Test set is: 0.08367084630369194
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 11.721639071397426
+The MAE   on the Test set is: 9.408283103193416
+The MAPE  on the Test set is: 0.12222234354749643
+The SMAPE on the Test set is: 0.15496336172624248
+2019-12-22 08:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 8.044314958143667
+The MAE   on the Test set is: 3.714806298451553
+The MAPE  on the Test set is: 0.06530201166418584
+The SMAPE on the Test set is: 0.05260054188953691
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 11.794057683842023
+The MAE   on the Test set is: 7.028233892365464
+The MAPE  on the Test set is: 0.13462321244877698
+The SMAPE on the Test set is: 0.10150171628631782
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 15.167727426517105
+The MAE   on the Test set is: 11.47563949501914
+The MAPE  on the Test set is: 0.15427574730133362
+The SMAPE on the Test set is: 0.18295380563968625
+2019-12-22 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 6.870699638817646
+The MAE   on the Test set is: 5.426328225071789
+The MAPE  on the Test set is: 0.1653243780152995
+The SMAPE on the Test set is: 0.09337746418223221
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 9.734021094763508
+The MAE   on the Test set is: 7.64869810185069
+The MAPE  on the Test set is: 0.2584838204839558
+The SMAPE on the Test set is: 0.1201874142409236
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 15.240532676629362
+The MAE   on the Test set is: 13.526398239810254
+The MAPE  on the Test set is: 0.24327892330363343
+The SMAPE on the Test set is: 0.22330787142700975
+2019-12-22 10:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 6.1729192761205445
+The MAE   on the Test set is: 3.3368799374070304
+The MAPE  on the Test set is: 0.06507107350611811
+The SMAPE on the Test set is: 0.05301047691243967
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 9.886193613173518
+The MAE   on the Test set is: 7.101899338184208
+The MAPE  on the Test set is: 0.1897533125970432
+The SMAPE on the Test set is: 0.11716770529028324
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 13.171960035229207
+The MAE   on the Test set is: 9.872132894396676
+The MAPE  on the Test set is: 0.1555961611818457
+The SMAPE on the Test set is: 0.16914548736589136
+2019-12-22 11:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 3.9511215388836725
+The MAE   on the Test set is: 2.86487397626118
+The MAPE  on the Test set is: 0.042986971706386996
+The SMAPE on the Test set is: 0.038626357877413094
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 6.985992484564399
+The MAE   on the Test set is: 5.355557696472923
+The MAPE  on the Test set is: 0.07162083619703534
+The SMAPE on the Test set is: 0.07113292199272282
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 12.80050034630571
+The MAE   on the Test set is: 10.915244916705763
+The MAPE  on the Test set is: 0.12630834994603227
+The SMAPE on the Test set is: 0.1702436907813172
+2019-12-22 12:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 3.510125587994973
+The MAE   on the Test set is: 2.5050534438782353
+The MAPE  on the Test set is: 0.0382359021833282
+The SMAPE on the Test set is: 0.03664281993641572
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 5.32328867218593
+The MAE   on the Test set is: 4.091212531994811
+The MAPE  on the Test set is: 0.06584701536623844
+The SMAPE on the Test set is: 0.058245349295102895
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 10.014735432831621
+The MAE   on the Test set is: 8.433580559228362
+The MAPE  on the Test set is: 0.11071851235954241
+The SMAPE on the Test set is: 0.14306953531489014
+2019-12-22 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.720440515364609
+The MAE   on the Test set is: 1.9258542117522182
+The MAPE  on the Test set is: 0.028260240043367673
+The SMAPE on the Test set is: 0.027213827156100254
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 5.985265989418023
+The MAE   on the Test set is: 4.9565994517732275
+The MAPE  on the Test set is: 0.07367520494120698
+The SMAPE on the Test set is: 0.07275707507023041
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 10.293230714244872
+The MAE   on the Test set is: 8.98842801915129
+The MAPE  on the Test set is: 0.11703660957680886
+The SMAPE on the Test set is: 0.15235343394565873
+2019-12-22 14:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.8963868948147065
+The MAE   on the Test set is: 2.2048244900996257
+The MAPE  on the Test set is: 0.03355543645232788
+The SMAPE on the Test set is: 0.0314349609471926
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 6.188480454016626
+The MAE   on the Test set is: 4.55533390686269
+The MAPE  on the Test set is: 0.06451363148826891
+The SMAPE on the Test set is: 0.06716040912945648
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 10.791886257033314
+The MAE   on the Test set is: 9.47107766236402
+The MAPE  on the Test set is: 0.12021173979551891
+The SMAPE on the Test set is: 0.15747896417937884
+2019-12-22 15:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 3.0095759829243427
+The MAE   on the Test set is: 1.9919008613489215
+The MAPE  on the Test set is: 0.030561291740564985
+The SMAPE on the Test set is: 0.027771574889192113
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 5.810940731275893
+The MAE   on the Test set is: 4.4791771910900104
+The MAPE  on the Test set is: 0.05950371286439472
+The SMAPE on the Test set is: 0.06327038218773937
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 10.44458278061075
+The MAE   on the Test set is: 9.710415028960103
+The MAPE  on the Test set is: 0.1266151383470753
+The SMAPE on the Test set is: 0.16450102608295747
+2019-12-22 16:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 4.40392771567915
+The MAE   on the Test set is: 3.2811407251067157
+The MAPE  on the Test set is: 0.04504556430382481
+The SMAPE on the Test set is: 0.04344456448169276
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 5.423762934417717
+The MAE   on the Test set is: 4.222526636320123
+The MAPE  on the Test set is: 0.05667292519332831
+The SMAPE on the Test set is: 0.056968927268809616
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 11.411503409716241
+The MAE   on the Test set is: 10.561084831635625
+The MAPE  on the Test set is: 0.13255078250811497
+The SMAPE on the Test set is: 0.1741852151877994
+2019-12-22 17:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 3.6920305875261636
+The MAE   on the Test set is: 2.559867823064371
+The MAPE  on the Test set is: 0.046162429363561665
+The SMAPE on the Test set is: 0.03449482296890025
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 6.715450744516106
+The MAE   on the Test set is: 5.320051113411588
+The MAPE  on the Test set is: 0.08228135522903236
+The SMAPE on the Test set is: 0.069510543518972
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 13.155426164537683
+The MAE   on the Test set is: 12.235065554174094
+The MAPE  on the Test set is: 0.14903855382910203
+The SMAPE on the Test set is: 0.19362834186493427
+2019-12-22 18:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 3.583309008259683
+The MAE   on the Test set is: 1.968851227644017
+The MAPE  on the Test set is: 0.037659957669478356
+The SMAPE on the Test set is: 0.03152247018092818
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 8.362251425745184
+The MAE   on the Test set is: 5.757148723483778
+The MAPE  on the Test set is: 0.11850142867440625
+The SMAPE on the Test set is: 0.07950859459110647
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 9.318048137512289
+The MAE   on the Test set is: 7.995591039191577
+The MAPE  on the Test set is: 0.11586640230402455
+The SMAPE on the Test set is: 0.14213594404078916
+2019-12-22 19:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.5226660222364097
+The MAE   on the Test set is: 1.6960270561238706
+The MAPE  on the Test set is: 0.035504314220617776
+The SMAPE on the Test set is: 0.02964567127418869
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 8.605555927454224
+The MAE   on the Test set is: 6.773420388414973
+The MAPE  on the Test set is: 0.13920893788140234
+The SMAPE on the Test set is: 0.09637854906898291
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 7.732823791753276
+The MAE   on the Test set is: 6.514819372411313
+The MAPE  on the Test set is: 0.10098097188385145
+The SMAPE on the Test set is: 0.1215855873104373
+2019-12-22 20:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.5298543455371187
+The MAE   on the Test set is: 1.735899580893409
+The MAPE  on the Test set is: 0.03563969445804102
+The SMAPE on the Test set is: 0.029353987510460054
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 7.235070926528042
+The MAE   on the Test set is: 5.589905914728217
+The MAPE  on the Test set is: 0.1137453257274236
+The SMAPE on the Test set is: 0.08062731487346878
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 8.448651472109482
+The MAE   on the Test set is: 7.272521596302123
+The MAPE  on the Test set is: 0.10934422753867191
+The SMAPE on the Test set is: 0.13276196016284111
+2019-12-22 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.438228580110808
+The MAE   on the Test set is: 1.6601177619766703
+The MAPE  on the Test set is: 0.041219628069832544
+The SMAPE on the Test set is: 0.031188058039196682
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 6.513170185356177
+The MAE   on the Test set is: 5.18242579149174
+The MAPE  on the Test set is: 0.12279015891121349
+The SMAPE on the Test set is: 0.08112882713782146
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 7.147244214398623
+The MAE   on the Test set is: 6.126389128101878
+The MAPE  on the Test set is: 0.10558688770911202
+The SMAPE on the Test set is: 0.11815693619019745
+
+2019-12-22 23:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.3321150598866294
+The MAE   on the Test set is: 1.5915859177623704
+The MAPE  on the Test set is: 0.04269873497653113
+The SMAPE on the Test set is: 0.029922011849555605
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 6.020481509473473
+The MAE   on the Test set is: 4.843308510337683
+The MAPE  on the Test set is: 0.1274464005120447
+The SMAPE on the Test set is: 0.07937354709837167
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 6.560214993679724
+The MAE   on the Test set is: 5.317283432217862
+The MAPE  on the Test set is: 0.10023094256817221
+The SMAPE on the Test set is: 0.10237490589142828
+
+
+2019-12-23 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The RMSE  on the Test set is: 2.6666917080637185
+The MAE   on the Test set is: 1.4548894244643586
+The MAPE  on the Test set is: 0.04777074431626598
+The SMAPE on the Test set is: 0.04034459193023422
+單就環保署16測站 所擴網格 評估數值
+
+The RMSE  on the Test set is: 4.087945554443266
+The MAE   on the Test set is: 3.0709229100010815
+The MAPE  on the Test set is: 0.09930068540011808
+The SMAPE on the Test set is: 0.08714338819841974
+原本所使用的IDW 未改版前 評估數值
+
+The RMSE  on the Test set is: 3.560272185827224
+The MAE   on the Test set is: 2.8807600446490245
+The MAPE  on the Test set is: 0.09588815698268591
+The SMAPE on the Test set is: 0.07828308385149346
+2019-12-23 11:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6377547650617228
+The MAPE  on the Test set is: 0.043624411828890694
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.4153145281326913
+The MAPE  on the Test set is: 0.0877497399241775
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.353099972101876
+The MAPE  on the Test set is: 0.061163034305496654
+2019-12-23 12:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.0830929535011167
+The MAPE  on the Test set is: 0.024358466244662036
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.9566854171289894
+The MAPE  on the Test set is: 0.07970273067678127
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.698960360071373
+The MAPE  on the Test set is: 0.05315837830281901
+2019-12-23 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.1880386129407414
+The MAPE  on the Test set is: 0.02720635372085762
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.2138231574206952
+The MAPE  on the Test set is: 0.06390255585118812
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.6507431881310013
+The MAPE  on the Test set is: 0.05274357139647554
+2019-12-23 14:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3695846242369756
+The MAPE  on the Test set is: 0.028048321984118517
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.128547951616177
+The MAPE  on the Test set is: 0.08597820080765846
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.339515342625723
+The MAPE  on the Test set is: 0.0730787988280917
+2019-12-23 15:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.2421932509459124
+The MAPE  on the Test set is: 0.024620014923192116
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.799642767627571
+The MAPE  on the Test set is: 0.07859508168294055
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.352924791044351
+The MAPE  on the Test set is: 0.07151563728381984
+2019-12-23 16:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.9923223848529855
+The MAPE  on the Test set is: 0.024299385129056494
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 1.9555323300601528
+The MAPE  on the Test set is: 0.04546176709161927
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.134643105030185
+The MAPE  on the Test set is: 0.04757709622065969
+2019-12-23 17:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.2737966999403363
+The MAPE  on the Test set is: 0.031443311555281676
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.1185290055534467
+The MAPE  on the Test set is: 0.053231183664777436
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 1.9193077433539956
+The MAPE  on the Test set is: 0.04787489434001397
+2019-12-23 18:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.691652679297338
+The MAPE  on the Test set is: 0.038422064500310237
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.699154887323624
+The MAPE  on the Test set is: 0.07023707956578973
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.0252465855254598
+The MAPE  on the Test set is: 0.07246729989372215
+2019-12-23 19:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3302612826528484
+The MAPE  on the Test set is: 0.03470553964674789
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.0438238781199307
+The MAPE  on the Test set is: 0.08536422193920438
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.3327570957928336
+The MAPE  on the Test set is: 0.08026426491326628
+2019-12-23 20:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.8790492799288863
+The MAPE  on the Test set is: 0.050827050845449404
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.59016003305784
+The MAPE  on the Test set is: 0.15511200785532864
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.145667765479635
+The MAPE  on the Test set is: 0.1081626894587394
+2019-12-23 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.515051370341814
+The MAPE  on the Test set is: 0.038945181716301173
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.630359412242974
+The MAPE  on the Test set is: 0.10456709077983621
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.860426269575806
+The MAPE  on the Test set is: 0.07748230982908426
+2019-12-23 22:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3423005462518212
+The MAPE  on the Test set is: 0.036137716653566535
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.931151656403531
+The MAPE  on the Test set is: 0.141711494226721
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.7792832088964277
+The MAPE  on the Test set is: 0.0831636432288159
+2019-12-23 23:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.2688784828531166
+The MAPE  on the Test set is: 0.0373525807664422
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 0.2688784828531166
+The MAPE  on the Test set is: 0.0373525807664422
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.8811200829351575
+The MAPE  on the Test set is: 0.466757000824192
+2019-12-24 00:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3937888672206924
+The MAPE  on the Test set is: 0.038839137350355615
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.381489156088723
+The MAPE  on the Test set is: 0.13803410706375557
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.6639882898135876
+The MAPE  on the Test set is: 0.08284815075466194
+2019-12-24 01:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4833544558038705
+The MAPE  on the Test set is: 0.03729072308019211
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.666178742178796
+The MAPE  on the Test set is: 0.09711544784745796
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.649093767327275
+The MAPE  on the Test set is: 0.08571034814680897
+2019-12-24 02:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.320141604224856
+The MAPE  on the Test set is: 0.03422862066020046
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.136979729995187
+The MAPE  on the Test set is: 0.12028435556696004
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.8625581615178346
+The MAPE  on the Test set is: 0.07569250069140772
+2019-12-24 03:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3991793836466266
+The MAPE  on the Test set is: 0.03615016146274396
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.401224626871059
+The MAPE  on the Test set is: 0.13782400981301396
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.294829128344869
+The MAPE  on the Test set is: 0.0853946652286492
+2019-12-24 04:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.0346166888515493
+The MAPE  on the Test set is: 0.05630664161179711
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.578516981837273
+The MAPE  on the Test set is: 0.1854755604297781
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.271596022634325
+The MAPE  on the Test set is: 0.107753103503604
+2019-12-24 05:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5620090298556681
+The MAPE  on the Test set is: 0.0360074175155691
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.541927682737699
+The MAPE  on the Test set is: 0.138390273380264
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.2390925768827845
+The MAPE  on the Test set is: 0.09947423515429378
+2019-12-24 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.8761049610956406
+The MAPE  on the Test set is: 0.04221920098470627
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.662849189769383
+The MAPE  on the Test set is: 0.13497489839222018
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.74137477824035
+The MAPE  on the Test set is: 0.11599630502340885
+2019-12-24 07:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.1461674125596963
+The MAPE  on the Test set is: 0.05936072517528794
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.810774546538991
+The MAPE  on the Test set is: 0.11796691520138475
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.6475384446861385
+The MAPE  on the Test set is: 0.13216271964390727
+2019-12-24 08:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.364538249637082
+The MAPE  on the Test set is: 0.047094400185268705
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.691697910717931
+The MAPE  on the Test set is: 0.09589897039728677
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.755976456307619
+The MAPE  on the Test set is: 0.11952601613272214
+2019-12-24 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.2333405193454534
+The MAPE  on the Test set is: 0.066344516289886
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.503783415325041
+The MAPE  on the Test set is: 0.09001487585692157
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.755976456307619
+The MAPE  on the Test set is: 0.11952601613272214
+2019-12-24 10:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6974973390779493
+The MAPE  on the Test set is: 0.027727400576126462
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.6602915032722123
+The MAPE  on the Test set is: 0.05388316592196871
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.999901332237475
+The MAPE  on the Test set is: 0.11380459749273719
+2019-12-24 11:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6881614633000497
+The MAPE  on the Test set is: 0.025846809026734897
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.164332382773004
+The MAPE  on the Test set is: 0.05545291338262192
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 9.44731672282598
+The MAPE  on the Test set is: 0.12486825081685325
+2019-12-24 12:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.180448626603215
+The MAPE  on the Test set is: 0.028964043896252747
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.565367229119159
+The MAPE  on the Test set is: 0.05135214918992677
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 11.563781307463316
+The MAPE  on the Test set is: 0.13886735253127994
+2019-12-24 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6771356921695968
+The MAPE  on the Test set is: 0.023339599225117826
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.2157090874012977
+The MAPE  on the Test set is: 0.039931624255847564
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 10.669066011771411
+The MAPE  on the Test set is: 0.13470664682376107
+2019-12-24 14:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.499401603974933
+The MAPE  on the Test set is: 0.027981917792213356
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.974904398722457
+The MAPE  on the Test set is: 0.05488801968457453
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.9290454931581955
+The MAPE  on the Test set is: 0.10632893284504755
+2019-12-24 15:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5940932000277022
+The MAPE  on the Test set is: 0.027046670997328808
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.203750487384648
+The MAPE  on the Test set is: 0.05538811681322692
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.9678803908222005
+The MAPE  on the Test set is: 0.10489624864554412
+2019-12-24 16:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6821926279371415
+The MAPE  on the Test set is: 0.03513766178758865
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.967435131097397
+The MAPE  on the Test set is: 0.08305574630613889
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.342173133359682
+The MAPE  on the Test set is: 0.10253495576836673
+2019-12-24 17:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.8288239251643816
+The MAPE  on the Test set is: 0.03520390832120094
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.6230455989001027
+The MAPE  on the Test set is: 0.06848115115852342
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.055756410289562
+The MAPE  on the Test set is: 0.10803250530772868
+2019-12-24 18:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7638229225067141
+The MAPE  on the Test set is: inf
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.029932931141109
+The MAPE  on the Test set is: 0.07428618472499032
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.048723621372193
+The MAPE  on the Test set is: inf
+2019-12-24 19:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7760227151995278
+The MAPE  on the Test set is: inf
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.53204138589934
+The MAPE  on the Test set is: 0.07638519361314709
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.414851654470852
+The MAPE  on the Test set is: inf
+2019-12-24 20:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.9166759839980505
+The MAPE  on the Test set is: 0.03373263891107558
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.8251574353790483
+The MAPE  on the Test set is: 0.06458328927671952
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.89127725308732
+The MAPE  on the Test set is: 0.12339689080899546
+2019-12-24 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.635780527844656
+The MAPE  on the Test set is: 0.03113845781162967
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.883717128733875
+The MAPE  on the Test set is: 0.07147429787141533
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.593009067873865
+The MAPE  on the Test set is: 0.11279554526554932
+2019-12-24 22:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6038297562792363
+The MAPE  on the Test set is: 0.03396808924737147
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.742834394548414
+The MAPE  on the Test set is: 0.09553506272103808
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.95473146019351
+The MAPE  on the Test set is: 0.1074662900363106
+2019-12-24 23:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.7467967941839766
+The MAPE  on the Test set is: 0.0452602654998938
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.421975342730195
+The MAPE  on the Test set is: 0.09556395306007102
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.9574391372236395
+The MAPE  on the Test set is: 0.0995214375451602
+2019-12-25 00:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.9513912448590325
+The MAPE  on the Test set is: 0.04987983265130763
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.484389549945592
+The MAPE  on the Test set is: 0.1303029338291888
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.215082140559282
+The MAPE  on the Test set is: 0.1000310273794109
+2019-12-25 01:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.9431179830371186
+The MAPE  on the Test set is: 0.050670423194251975
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.0260039622096055
+The MAPE  on the Test set is: 0.11532573096880525
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.137469058472667
+The MAPE  on the Test set is: 0.09814603937225523
+2019-12-25 02:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5210670190726605
+The MAPE  on the Test set is: 0.03304954000677625
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.070203634028253
+The MAPE  on the Test set is: 0.10789981574965078
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.909519694459758
+The MAPE  on the Test set is: 0.08519701603601833
+2019-12-25 03:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6044355316207013
+The MAPE  on the Test set is: 0.037303650893923575
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.322189473076589
+The MAPE  on the Test set is: 0.12587973687467982
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.26682590551569
+The MAPE  on the Test set is: 0.08069612430897631
+2019-12-25 04:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7844038406705263
+The MAPE  on the Test set is: 0.05265848383183894
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.393136006863609
+The MAPE  on the Test set is: 0.15770310713766586
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.017028411646623
+The MAPE  on the Test set is: 0.09772840249361728
+2019-12-25 05:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.926928297491372
+The MAPE  on the Test set is: 0.0650866408398642
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.448782788431168
+The MAPE  on the Test set is: 0.18210414947902068
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.46596751571257
+The MAPE  on the Test set is: 0.10747441832354833
+2019-12-25 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7716694014261432
+The MAPE  on the Test set is: 0.048723931074235775
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.651490867654575
+The MAPE  on the Test set is: 0.18061940149507816
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.188286853577746
+The MAPE  on the Test set is: 0.09499761384881875
+2019-12-25 07:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6088637187784833
+The MAPE  on the Test set is: 0.0437002374806411
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.490416968570635
+The MAPE  on the Test set is: 0.1437194066375655
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.5905988071611508
+The MAPE  on the Test set is: 0.09970651981011272
+2019-12-25 08:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5562293829057265
+The MAPE  on the Test set is: 0.04068261736394482
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.114816080852829
+The MAPE  on the Test set is: 0.12804999948027995
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.0244994457362133
+The MAPE  on the Test set is: 0.08531465174654386
+2019-12-25 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.6984489917799263
+The MAPE  on the Test set is: 0.09590355736504216
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 0.6984489917799263
+The MAPE  on the Test set is: 0.09590355736504216
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.218843150248273
+The MAPE  on the Test set is: 0.6565310912184286
+2019-12-25 10:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.5612510823112973
+The MAPE  on the Test set is: 0.062404539975633715
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 0.5612510823112973
+The MAPE  on the Test set is: 0.062404539975633715
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.490703644317491
+The MAPE  on the Test set is: 0.7319894875741426
+2019-12-25 11:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.504163586063847
+The MAPE  on the Test set is: 0.062113135850334664
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 0.504163586063847
+The MAPE  on the Test set is: 0.062113135850334664
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.530703644317491
+The MAPE  on the Test set is: 0.7675897228451986
+2019-12-25 12:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.5803785990785285
+The MAPE  on the Test set is: 0.07146728711481823
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 0.5803785990785285
+The MAPE  on the Test set is: 0.07146728711481823
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.4780238505604935
+The MAPE  on the Test set is: 0.7094114379956323
+2019-12-25 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.1684299900334367
+The MAPE  on the Test set is: 0.021588598477725873
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.678231299988951
+The MAPE  on the Test set is: 0.07930613066207355
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.079049784749324
+The MAPE  on the Test set is: 0.08340917765178486
+2019-12-25 14:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.1438057896277398
+The MAPE  on the Test set is: 0.022309605619708156
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.600399944664109
+The MAPE  on the Test set is: 0.06796746363597911
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.780823163322728
+The MAPE  on the Test set is: 0.0676630966094352
+2019-12-25 15:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4228223988717756
+The MAPE  on the Test set is: 0.02496037957824697
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.817607238683262
+The MAPE  on the Test set is: 0.05055176059884979
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.659551358212876
+The MAPE  on the Test set is: 0.062067816866892764
+2019-12-25 16:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.2229314340930315
+The MAPE  on the Test set is: 0.028394971403879816
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.412102784100178
+The MAPE  on the Test set is: 0.06097932482584827
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 1.9611214708034697
+The MAPE  on the Test set is: 0.042106177002284875
+2019-12-25 17:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.657893102966002
+The MAPE  on the Test set is: 0.040393008316783205
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.590604181852338
+The MAPE  on the Test set is: 0.10136032808304345
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.3150151915686927
+The MAPE  on the Test set is: 0.05992895333860831
+2019-12-25 18:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.6049346294346365
+The MAPE  on the Test set is: 0.06264724084295668
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.149338657268392
+The MAPE  on the Test set is: 0.10618794342401694
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.884965937578711
+The MAPE  on the Test set is: 0.08254184503667095
+2019-12-25 19:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.4665431734002796
+The MAPE  on the Test set is: 0.06744406403058452
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.9953433420633906
+The MAPE  on the Test set is: 0.10845291622432146
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.627118063192651
+The MAPE  on the Test set is: 0.0999255212083132
+2019-12-25 20:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.8745659501857466
+The MAPE  on the Test set is: 0.08231325954179139
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.683897269707268
+The MAPE  on the Test set is: 0.13053366290649338
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.384145103244802
+The MAPE  on the Test set is: 0.11825558592787648
+2019-12-25 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.9722972647284223
+The MAPE  on the Test set is: 0.049748911895062455
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.9421376845984324
+The MAPE  on the Test set is: 0.09655861366430335
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.676423149586846
+The MAPE  on the Test set is: 0.10612217430990048
+2019-12-25 22:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.229129529378196
+The MAPE  on the Test set is: 0.051289400656276615
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.005670376496328
+The MAPE  on the Test set is: 0.11350836799027872
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.844470312467227
+The MAPE  on the Test set is: 0.10824762122321413
+2019-12-25 23:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.132921627829981
+The MAPE  on the Test set is: 0.05174706891128567
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.989012117283143
+The MAPE  on the Test set is: 0.14659248560641416
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.553510055927985
+The MAPE  on the Test set is: 0.11719073931628528
+2019-12-26 00:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.898549744086869
+The MAPE  on the Test set is: 0.08725717810352973
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.622064743126616
+The MAPE  on the Test set is: 0.4033432393957265
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 9.267279610587748
+The MAPE  on the Test set is: 0.1932167866236986
+2019-12-26 01:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.3440483365482634
+The MAPE  on the Test set is: 0.07615912939324401
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.148434303451372
+The MAPE  on the Test set is: 0.37803995034025367
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.446320071619092
+The MAPE  on the Test set is: 0.1753371593203411
+2019-12-26 02:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.2126582959858605
+The MAPE  on the Test set is: 0.08462710733146751
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.800796685660277
+The MAPE  on the Test set is: 0.7089041832949412
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.359276421203318
+The MAPE  on the Test set is: 0.29215471312217894
+2019-12-26 03:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.1675618363167533
+The MAPE  on the Test set is: 0.08661708357444252
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.978799127342261
+The MAPE  on the Test set is: 0.28339125602025605
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.478137832236757
+The MAPE  on the Test set is: 0.16912839326660048
+2019-12-26 04:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.9274848973798864
+The MAPE  on the Test set is: 0.09729529818154566
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.225797733754744
+The MAPE  on the Test set is: 0.4100781491963863
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.611501370091824
+The MAPE  on the Test set is: 0.26798644212844386
+2019-12-26 05:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.044379616300837
+The MAPE  on the Test set is: 0.11653369644977933
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.155329205402777
+The MAPE  on the Test set is: 0.4720776740014122
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.882895239844777
+The MAPE  on the Test set is: 0.33506617391169863
+2019-12-26 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.5681671954370016
+The MAPE  on the Test set is: 0.14528083546349815
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.611290720935138
+The MAPE  on the Test set is: 0.5130239489624756
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.166399685718098
+The MAPE  on the Test set is: 0.33394589513268097
+2019-12-26 07:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.4411518538159167
+The MAPE  on the Test set is: 0.14070433610819869
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.592691949181559
+The MAPE  on the Test set is: 0.395772442554602
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.8294458156056725
+The MAPE  on the Test set is: 0.259171992348734
+2019-12-26 08:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.7505047405339167
+The MAPE  on the Test set is: 0.06568756261443949
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.058362663172072
+The MAPE  on the Test set is: 0.18995914990238927
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.016328652800784
+The MAPE  on the Test set is: 0.16321394471826034
+2019-12-26 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.937138866033802
+The MAPE  on the Test set is: 0.033284545250416
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.972925397902562
+The MAPE  on the Test set is: 0.08495910077645509
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.271002350165736
+The MAPE  on the Test set is: 0.0842866399026531
+2019-12-26 10:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4085122740012146
+The MAPE  on the Test set is: 0.027337720052705496
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.477785043429117
+The MAPE  on the Test set is: 0.10209866514516022
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.124673683723535
+The MAPE  on the Test set is: 0.06301239930300774
+2019-12-26 11:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3730372596250233
+The MAPE  on the Test set is: 0.02890060162226001
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.9978292253477234
+The MAPE  on the Test set is: 0.08875437893546145
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.144962303046261
+The MAPE  on the Test set is: 0.059583220880548245
+2019-12-26 12:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.0317537074573815
+The MAPE  on the Test set is: 0.023542972780253822
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.99560347761718
+The MAPE  on the Test set is: 0.13341269933730462
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.4302859155332204
+The MAPE  on the Test set is: 0.057707438378808054
+2019-12-26 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.2290750820102883
+The MAPE  on the Test set is: 0.03816571238006228
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.9832084930668104
+The MAPE  on the Test set is: 0.05627530005149237
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.9018826857130984
+The MAPE  on the Test set is: 0.06496631765626773
+2019-12-26 14:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.1785720865769953
+The MAPE  on the Test set is: 0.028866268159427926
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.0277973984119497
+The MAPE  on the Test set is: 0.06879481798668703
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.2369166781396745
+The MAPE  on the Test set is: 0.048956899758241544
+2019-12-26 15:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.1891993245335821
+The MAPE  on the Test set is: 0.026263409034722733
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.312938044361193
+The MAPE  on the Test set is: 0.06360682225864715
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.6096727988292803
+The MAPE  on the Test set is: 0.06539680974509486
+2019-12-26 16:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.2679426990327414
+The MAPE  on the Test set is: 0.02738380160781311
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.111723556923813
+The MAPE  on the Test set is: 0.07360690046136653
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.470784558488455
+The MAPE  on the Test set is: 0.07724020130511025
+2019-12-26 17:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.8137473826563149
+The MAPE  on the Test set is: 0.029642372249026536
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.839184608582732
+The MAPE  on the Test set is: 0.10452337151209586
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.92838318682927
+The MAPE  on the Test set is: 0.1194423745419485
+2019-12-26 18:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.711796825742863
+The MAPE  on the Test set is: 0.05848672801798771
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.624188346071927
+The MAPE  on the Test set is: 0.09483154983347401
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 9.930298262815613
+The MAPE  on the Test set is: 0.1279591553835266
+2019-12-26 19:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7093423499775573
+The MAPE  on the Test set is: 0.02922449919912609
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.153874424314993
+The MAPE  on the Test set is: 0.06821373031553923
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 9.343379273984349
+The MAPE  on the Test set is: 0.12463517197135172
+2019-12-26 20:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.2959464685182525
+The MAPE  on the Test set is: 0.021587251966930607
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.555219829501258
+The MAPE  on the Test set is: 0.0386697832665899
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.031518737939782
+The MAPE  on the Test set is: 0.1150756986414776
+2019-12-26 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3461281100238607
+The MAPE  on the Test set is: 0.030316972554103726
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.205371839124867
+The MAPE  on the Test set is: 0.09885620307864905
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.8017520488918017
+The MAPE  on the Test set is: 0.07211189378021227
+2019-12-26 22:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4908933892759415
+The MAPE  on the Test set is: 0.04272499658747597
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.060845783954822
+The MAPE  on the Test set is: 0.3182724662721369
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.4556918877761325
+The MAPE  on the Test set is: 0.11489096589672283
+2019-12-26 23:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.027473064788355
+The MAPE  on the Test set is: 0.033398376901416636
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.421202882078944
+The MAPE  on the Test set is: 0.3946697875903272
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.58596031274185
+The MAPE  on the Test set is: 0.1845415917918395
+2019-12-27 00:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.9820634346781321
+The MAPE  on the Test set is: 0.02607619241654968
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.9757521611743964
+The MAPE  on the Test set is: 0.15521215867759294
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.8867454912647474
+The MAPE  on the Test set is: 0.08356439232379954
+2019-12-27 01:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.8178644417172926
+The MAPE  on the Test set is: 0.022547204674725128
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.10669782518222
+The MAPE  on the Test set is: 0.08770733845081924
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.3463018538398948
+The MAPE  on the Test set is: 0.062305753067620144
+2019-12-27 02:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.003897933138674
+The MAPE  on the Test set is: 0.033797420220362834
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.9677397279897737
+The MAPE  on the Test set is: 0.10233665815194709
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.7857432673880558
+The MAPE  on the Test set is: 0.09523877197670387
+2019-12-27 03:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.8994823067870475
+The MAPE  on the Test set is: 0.03371623414459257
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.840300930257579
+The MAPE  on the Test set is: 0.10643926683313733
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.9888365619548782
+The MAPE  on the Test set is: 0.11096377730959624
+2019-12-27 04:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.6957675147995446
+The MAPE  on the Test set is: 0.025054285012005906
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.4908997659372347
+The MAPE  on the Test set is: 0.13935571368502922
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.924760655398279
+The MAPE  on the Test set is: 0.15799098045523396
+2019-12-27 05:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.8842903024259464
+The MAPE  on the Test set is: 0.031655601812182445
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.944599580601582
+The MAPE  on the Test set is: 0.10900982420408928
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.312575622455472
+The MAPE  on the Test set is: 0.12481957623615507
+2019-12-27 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5516757335606857
+The MAPE  on the Test set is: 0.061924608010899704
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.8769335351599428
+The MAPE  on the Test set is: 0.21687046314417913
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.744340308561549
+The MAPE  on the Test set is: 0.26519258177648336
+2019-12-27 07:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.8944873801288453
+The MAPE  on the Test set is: 0.033154067033439934
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.534784649010713
+The MAPE  on the Test set is: 0.09799570911721193
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.5671207288264695
+The MAPE  on the Test set is: 0.1380362970434644
+2019-12-27 08:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 0.9814999187775493
+The MAPE  on the Test set is: 0.03591001453808497
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.6142767734424486
+The MAPE  on the Test set is: 0.09651521923456442
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.714954822063649
+The MAPE  on the Test set is: 0.14545842399694545
+2019-12-27 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.1529440900503833
+The MAPE  on the Test set is: 0.03227773835200376
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.3904391919788592
+The MAPE  on the Test set is: 0.0779766937235434
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.9099264436475085
+The MAPE  on the Test set is: 0.07564228673506986
+2019-12-27 10:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7538726367403428
+The MAPE  on the Test set is: 0.03764440981523466
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.720637296816312
+The MAPE  on the Test set is: 0.12200968994583491
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.727509626123987
+The MAPE  on the Test set is: 0.09124790300726167
+2019-12-27 11:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7941286568282722
+The MAPE  on the Test set is: 0.036226515281662985
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.636173464065086
+The MAPE  on the Test set is: 0.11901866629413652
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.77857719056519
+The MAPE  on the Test set is: 0.09328902225746809
+2019-12-27 12:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.2939585449440107
+The MAPE  on the Test set is: 0.027620099354465376
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.150840746872056
+The MAPE  on the Test set is: 0.08732345023979775
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.730330137589806
+The MAPE  on the Test set is: 0.08124066934691104
+2019-12-27 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.345078280290717
+The MAPE  on the Test set is: 0.02447538574268777
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.599050817490782
+The MAPE  on the Test set is: 0.10673493615509758
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.081445679429505
+The MAPE  on the Test set is: 0.11340269535674598
+2019-12-27 14:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.5312401386362744
+The MAPE  on the Test set is: 0.03364594940178376
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.06483928928154
+The MAPE  on the Test set is: 0.11013491094842552
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 10.166389526777984
+The MAPE  on the Test set is: 0.12470007916316267
+2019-12-27 15:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4563123382260366
+The MAPE  on the Test set is: 0.024197129587394804
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.7795375524625445
+The MAPE  on the Test set is: 0.10196650405669096
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 9.507773281277856
+The MAPE  on the Test set is: 0.123583513679162
+2019-12-27 16:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5745529431427872
+The MAPE  on the Test set is: 0.027052218116068484
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.130829029818683
+The MAPE  on the Test set is: 0.07473309129974107
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.777350083247183
+The MAPE  on the Test set is: 0.10934971632940375
+2019-12-27 17:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.584557516610564
+The MAPE  on the Test set is: 0.025540877836796178
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.468286375855169
+The MAPE  on the Test set is: 0.06253021760197913
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.607051375220891
+The MAPE  on the Test set is: 0.1177212552823033
+2019-12-27 18:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6041918834968203
+The MAPE  on the Test set is: 0.02788200776414717
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.545373509019456
+The MAPE  on the Test set is: 0.05435923571588358
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.335367696957498
+The MAPE  on the Test set is: 0.11744665647473755
+2019-12-27 19:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.2162717411084971
+The MAPE  on the Test set is: 0.024371932081245926
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.5511252471363277
+The MAPE  on the Test set is: 0.06849264728616507
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.117556040323316
+The MAPE  on the Test set is: 0.0989393660240956
+2019-12-27 20:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5020457528295676
+The MAPE  on the Test set is: 0.02816482670904389
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.244649006565853
+The MAPE  on the Test set is: 0.10705825160115146
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.123991619206613
+The MAPE  on the Test set is: 0.08624687072648413
+2019-12-27 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.255042724132582
+The MAPE  on the Test set is: 0.02631182362288092
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.966509844389185
+The MAPE  on the Test set is: 0.10032620897531927
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.225925814368356
+The MAPE  on the Test set is: 0.08946322222579416
+2019-12-27 22:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4271904663443191
+The MAPE  on the Test set is: 0.03129696571455778
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.704693123686065
+The MAPE  on the Test set is: 0.12789274250369131
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 4.068914465038935
+The MAPE  on the Test set is: 0.07475673959702951
+2019-12-27 23:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3689332809805368
+The MAPE  on the Test set is: 0.026329608676686884
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.6446950971186367
+The MAPE  on the Test set is: 0.07187482675348353
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.664317188250629
+The MAPE  on the Test set is: 0.09174833947187491
+2019-12-28 00:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.208741790406476
+The MAPE  on the Test set is: 0.028125648323232222
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.628751618520298
+The MAPE  on the Test set is: 0.13457302377306637
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.053285181372877
+The MAPE  on the Test set is: 0.061107664407540556
+2019-12-28 01:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.1959090620839787
+The MAPE  on the Test set is: inf
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.0226826243988265
+The MAPE  on the Test set is: 0.14904039339337644
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.661907276295286
+The MAPE  on the Test set is: inf
+2019-12-28 02:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.27763839363955
+The MAPE  on the Test set is: inf
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.067843350056941
+The MAPE  on the Test set is: 0.16173049597576994
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.449251320584514
+The MAPE  on the Test set is: inf
+2019-12-28 03:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.1687754988182286
+The MAPE  on the Test set is: 0.031206750277966867
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.3869002541302695
+The MAPE  on the Test set is: 0.14607514424429718
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.4301560587673086
+The MAPE  on the Test set is: 0.0589317013049042
+2019-12-28 04:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.0672373932541068
+The MAPE  on the Test set is: 0.03157403030787182
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.825711701972751
+The MAPE  on the Test set is: 0.16971148575845507
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.1683250816349955
+The MAPE  on the Test set is: 0.06026887808585622
+2019-12-28 05:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.2066895746763675
+The MAPE  on the Test set is: 0.03179180913129737
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.173305933356298
+The MAPE  on the Test set is: 0.11049685763934242
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.2953396466679847
+The MAPE  on the Test set is: 0.05321818132182393
+2019-12-28 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3607354061960697
+The MAPE  on the Test set is: 0.04290988107354671
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.473335834118864
+The MAPE  on the Test set is: 0.14929370576718715
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.4083532828000975
+The MAPE  on the Test set is: 0.07499329142699589
+2019-12-28 07:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.8212823207395137
+The MAPE  on the Test set is: 0.0487370373351561
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.8326068043554966
+The MAPE  on the Test set is: 0.1185184869038539
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.072477366217807
+The MAPE  on the Test set is: 0.07850965881333054
+2019-12-28 08:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3795903283909705
+The MAPE  on the Test set is: 0.034095347420459554
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.339883931728596
+The MAPE  on the Test set is: 0.06395926072966956
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.3378559134437125
+The MAPE  on the Test set is: 0.0708302108996668
+2019-12-28 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.8168320418177832
+The MAPE  on the Test set is: 0.03427393579555207
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.5342843029531203
+The MAPE  on the Test set is: 0.04726482324994345
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.894449502164155
+The MAPE  on the Test set is: 0.0921736932138563
+2019-12-28 10:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.804675481649872
+The MAPE  on the Test set is: 0.035960026591688815
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.709492926765554
+The MAPE  on the Test set is: 0.05291881852890032
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.885107632114334
+The MAPE  on the Test set is: 0.09212724765480268
+2019-12-28 11:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.065919606992944
+The MAPE  on the Test set is: 0.03229877857541035
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.608310045092397
+The MAPE  on the Test set is: 0.05194965227571908
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.102955798218069
+The MAPE  on the Test set is: 0.11071879594188358
+2019-12-28 12:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4295653130105264
+The MAPE  on the Test set is: 0.022816706075947657
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.6494395844052065
+The MAPE  on the Test set is: 0.050833044539488524
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.635978028200896
+The MAPE  on the Test set is: 0.11426067870681669
+2019-12-28 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4222511141330754
+The MAPE  on the Test set is: 0.022442653419674052
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.673179863067233
+The MAPE  on the Test set is: 0.042004327719057086
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.301649100995625
+The MAPE  on the Test set is: 0.1135001401160567
+2019-12-28 14:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.3241342588752218
+The MAPE  on the Test set is: 0.022001213452477415
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.0368643005058495
+The MAPE  on the Test set is: 0.053193711848670854
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.613537084437435
+The MAPE  on the Test set is: 0.09749025095288213
+2019-12-28 15:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.853416494494798
+The MAPE  on the Test set is: 0.02962004129003491
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.9171959076933702
+The MAPE  on the Test set is: 0.06529943019480253
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.781977437434198
+The MAPE  on the Test set is: 0.09997850569322533
+2019-12-28 16:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.108049395108735
+The MAPE  on the Test set is: 0.03479045587962797
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.310747916157323
+The MAPE  on the Test set is: 0.08956149041749933
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.923851631593403
+The MAPE  on the Test set is: 0.09819729241353678
+2019-12-28 17:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.9397337674985542
+The MAPE  on the Test set is: 0.030939803365990864
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.3618583180236623
+The MAPE  on the Test set is: 0.054322394008193595
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.418825738275112
+The MAPE  on the Test set is: 0.11552718722718425
+2019-12-28 18:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.0900486751821115
+The MAPE  on the Test set is: 0.04138589205598012
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.519692860449507
+The MAPE  on the Test set is: 0.0675539020690798
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 11.05977414761422
+The MAPE  on the Test set is: 0.12684338360896869
+2019-12-28 19:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.0554904505740694
+The MAPE  on the Test set is: 0.04624637878713645
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.845779118613927
+The MAPE  on the Test set is: 0.07852433973963012
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 13.033714566932295
+The MAPE  on the Test set is: 0.14092596573493069
+2019-12-28 20:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.294570470739475
+The MAPE  on the Test set is: 0.04145332024310666
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.033845108277798
+The MAPE  on the Test set is: 0.07759272862147487
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 15.374509959137454
+The MAPE  on the Test set is: 0.1488477174455648
+2019-12-28 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.8402377778285706
+The MAPE  on the Test set is: 0.042450173556599045
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.57326262207043
+The MAPE  on the Test set is: 0.1017467233406886
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 14.916323856171559
+The MAPE  on the Test set is: 0.15117361571481824
+2019-12-28 22:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.878263511698626
+The MAPE  on the Test set is: 0.04274611534848586
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.8703547580841136
+The MAPE  on the Test set is: 0.1049454271242883
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 14.923564795079194
+The MAPE  on the Test set is: 0.15868212584325894
+2019-12-28 23:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.7928595242919747
+The MAPE  on the Test set is: 0.046645655804958275
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.178629345750161
+The MAPE  on the Test set is: 0.1340545453498858
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 12.875858417492609
+The MAPE  on the Test set is: 0.1513464524525184
+2019-12-29 00:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.3424769574167623
+The MAPE  on the Test set is: 0.03553721938037603
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.458694789907241
+The MAPE  on the Test set is: 0.11921607796703702
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 11.931502620799206
+The MAPE  on the Test set is: 0.13264026417929714
+2019-12-29 01:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.430079684490038
+The MAPE  on the Test set is: 0.04460878652459396
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.785039481519949
+The MAPE  on the Test set is: 0.1353609452127035
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 11.164442695879728
+The MAPE  on the Test set is: 0.13445675327272347
+2019-12-29 02:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.9811645416890324
+The MAPE  on the Test set is: 0.04574786234341417
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.805438257714894
+The MAPE  on the Test set is: 0.13892736966512248
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 12.146958588812623
+The MAPE  on the Test set is: 0.13140134844947568
+2019-12-29 03:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.8763409894227094
+The MAPE  on the Test set is: 0.04476010382839553
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.15079193161948
+The MAPE  on the Test set is: 0.07960340439149337
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 16.985293022799457
+The MAPE  on the Test set is: 0.15972669274870147
+2019-12-29 04:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.858645299560487
+The MAPE  on the Test set is: 0.04095213667531417
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.311248239852548
+The MAPE  on the Test set is: 0.07984104469308305
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 26.44410816510563
+The MAPE  on the Test set is: 0.19617941047490595
+2019-12-29 05:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.595181205040481
+The MAPE  on the Test set is: 0.03573005155748846
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 12.521066790701381
+The MAPE  on the Test set is: 0.08925684227285265
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 32.221335942609834
+The MAPE  on the Test set is: 0.21033224091389066
+2019-12-29 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.654570771592669
+The MAPE  on the Test set is: 0.0580728347158189
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 10.898072883791727
+The MAPE  on the Test set is: 0.10932078162560967
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 33.02471643201907
+The MAPE  on the Test set is: 0.22496678865896888
+2019-12-29 07:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.812354618567423
+The MAPE  on the Test set is: 0.03965073282673076
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.353668406818494
+The MAPE  on the Test set is: 0.07350887683464392
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 34.56203247097751
+The MAPE  on the Test set is: 0.2168292262631535
+2019-12-29 08:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.866661457919414
+The MAPE  on the Test set is: 0.0495900253853969
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.9676209037578385
+The MAPE  on the Test set is: 0.14272520835384012
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 28.802182718977697
+The MAPE  on the Test set is: 0.2008980601649681
+2019-12-29 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.140055503114289
+The MAPE  on the Test set is: 0.06747047986025471
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 16.69979176940728
+The MAPE  on the Test set is: 0.35124094062990846
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 15.807780091240197
+The MAPE  on the Test set is: 0.1685451114736654
+2019-12-29 10:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 3.331858930795804
+The MAPE  on the Test set is: 0.07563615272359822
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 22.473708124150797
+The MAPE  on the Test set is: 0.5778361641830664
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 9.700053631474852
+The MAPE  on the Test set is: 0.1392954210218489
+2019-12-29 11:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.4163880551882473
+The MAPE  on the Test set is: 0.06299215389610473
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 26.879487626070073
+The MAPE  on the Test set is: 1.1221275849142922
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.820969070562325
+The MAPE  on the Test set is: 0.22121193485926272
+2019-12-29 12:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.2309823649955747
+The MAPE  on the Test set is: 0.07256509128710853
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 24.84414548305674
+The MAPE  on the Test set is: 1.3955515181553408
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.557801605684563
+The MAPE  on the Test set is: 0.3453150086336772
+2019-12-29 13:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.0060599266063197
+The MAPE  on the Test set is: 0.09692477049168392
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 22.09660269024717
+The MAPE  on the Test set is: 1.983078334081391
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.395028781802488
+The MAPE  on the Test set is: 0.6538477904505402
+2019-12-29 14:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.0636342420502434
+The MAPE  on the Test set is: 0.09425689936044275
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 17.953283197040754
+The MAPE  on the Test set is: 1.0659778201950656
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.596432523760114
+The MAPE  on the Test set is: 0.3617737471681274
+2019-12-29 15:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.041270099502445
+The MAPE  on the Test set is: 0.12924202145464322
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 17.610714818842297
+The MAPE  on the Test set is: 2.0755671862126404
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 8.833982902128831
+The MAPE  on the Test set is: 0.9740276068592526
+2019-12-29 16:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7280157524361122
+The MAPE  on the Test set is: 0.07450481559867568
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 14.222458565901958
+The MAPE  on the Test set is: 0.9128402321411575
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.697107734306172
+The MAPE  on the Test set is: 0.42866522215685204
+2019-12-29 17:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.549669825975306
+The MAPE  on the Test set is: 0.08195464404115768
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 14.351357625591314
+The MAPE  on the Test set is: 0.9915785159293776
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.55864872835075
+The MAPE  on the Test set is: 0.4722082603749715
+2019-12-29 18:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.943639242091059
+The MAPE  on the Test set is: 0.09268027667209278
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 10.392321885306302
+The MAPE  on the Test set is: 0.8100138735510594
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.29904101282308
+The MAPE  on the Test set is: 0.4694318205309695
+2019-12-29 19:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.2678198921085992
+The MAPE  on the Test set is: 0.23063268010432872
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 9.161076349218037
+The MAPE  on the Test set is: 1.3860631396598817
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.683963270742506
+The MAPE  on the Test set is: 0.9720877049922281
+2019-12-29 20:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.7187806621539674
+The MAPE  on the Test set is: 0.22557497868929913
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 7.247899424243336
+The MAPE  on the Test set is: 1.1792261651181266
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.072309407008285
+The MAPE  on the Test set is: 1.189054727358239
+2019-12-29 21:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6516078007381745
+The MAPE  on the Test set is: 0.1318997328371991
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 6.3716179801829425
+The MAPE  on the Test set is: 0.7049341000155873
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.258226453940623
+The MAPE  on the Test set is: 0.6928092844494391
+2019-12-29 22:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.4909007218567554
+The MAPE  on the Test set is: 0.13477108262631454
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.2117837439945305
+The MAPE  on the Test set is: 0.43933805106418633
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 5.7843658015832435
+The MAPE  on the Test set is: 0.5871472692766717
+2019-12-29 23:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6987452396598255
+The MAPE  on the Test set is: 0.11840136434115478
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.200075918414809
+The MAPE  on the Test set is: 0.39533991354271786
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.2433721599553325
+The MAPE  on the Test set is: 0.603515296082132
+2019-12-30 00:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.9538432904966307
+The MAPE  on the Test set is: 0.08101564307717023
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.238318906466022
+The MAPE  on the Test set is: 0.18300686359832102
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.662959796776762
+The MAPE  on the Test set is: 0.1872956245458817
+2019-12-30 01:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5609448201871312
+The MAPE  on the Test set is: 0.05829809760689852
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.4110186121170245
+The MAPE  on the Test set is: 0.12001093859261136
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.768496319240293
+The MAPE  on the Test set is: 0.1318757796465251
+2019-12-30 02:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5402269489969052
+The MAPE  on the Test set is: 0.07952821945839778
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.5084399327958944
+The MAPE  on the Test set is: 0.17430558637927193
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 3.829289647296576
+The MAPE  on the Test set is: 0.2751062562486434
+2019-12-30 03:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5954668367983755
+The MAPE  on the Test set is: 0.07241870150924125
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.10527285233926
+The MAPE  on the Test set is: 0.18460886818204517
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 2.9470854786725087
+The MAPE  on the Test set is: 0.17163166754053022
+2019-12-30 04:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.5362023131289486
+The MAPE  on the Test set is: 0.1983289588815063
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.653777693790737
+The MAPE  on the Test set is: 0.915563123841226
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.641677120656221
+The MAPE  on the Test set is: 1.0421682385638917
+2019-12-30 05:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.532620025750201
+The MAPE  on the Test set is: 0.3437564969098938
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.520923027722787
+The MAPE  on the Test set is: 2.0454028560476436
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.487109531294018
+The MAPE  on the Test set is: 2.2635815530139194
+2019-12-30 06:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.541311387154328
+The MAPE  on the Test set is: 0.3484919432043544
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 5.39839563821643
+The MAPE  on the Test set is: 2.0400700319575127
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.106338927947192
+The MAPE  on the Test set is: 2.782324713107346
+2019-12-30 07:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 2.464965743919084
+The MAPE  on the Test set is: 0.6910826417424719
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 4.008473834912106
+The MAPE  on the Test set is: 1.3799732463019156
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.967671849140457
+The MAPE  on the Test set is: 2.325446201650363
+2019-12-30 08:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.36142881956518
+The MAPE  on the Test set is: 0.4119739547806893
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.076737208975292
+The MAPE  on the Test set is: 1.2681399627658347
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 6.8915953683636975
+The MAPE  on the Test set is: 2.616979289810507
+2019-12-30 09:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.6310088060704089
+The MAPE  on the Test set is: inf
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 3.8920633118958015
+The MAPE  on the Test set is: 1.0143213487946983
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.748322458400545
+The MAPE  on the Test set is: inf
+2019-12-30 10:00 
+
+微型感測器+環保署16測站 評估數值
+
+The MAE   on the Test set is: 1.9301137608435854
+The MAPE  on the Test set is: inf
+單就環保署16測站 所擴網格 評估數值
+
+The MAE   on the Test set is: 2.590902756938191
+The MAPE  on the Test set is: 0.4204137170107416
+原本所使用的IDW 未改版前 評估數值
+
+The MAE   on the Test set is: 7.091117862768743
+The MAPE  on the Test set is: inf
